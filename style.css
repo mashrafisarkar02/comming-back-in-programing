@@ -1,0 +1,59 @@
+h1,h2{
+    text-align: center;
+    color: maroon;
+    font-size:larger;
+    font-weight: 700;
+}
+#habit{
+    text-align: left;
+    color: black;
+    margin-top: 10px;
+    margin-left: 15px;
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.faw{
+    background-color: aqua;
+    width: 70%;
+    color: brown;
+}
+.blog-1{
+    color: black;
+    text-decoration: underline dotted;
+    font-size: larger;
+}
+.blog-2{
+    color: gold;
+    text-decoration: underline dashed;
+    font-size: larger;
+}
+.blog-3{
+    color: black;
+    text-decoration: underline double;
+    font-size: larger;
+}
+.Blog-1{
+    border: 2px solid green;
+    box-shadow: 2px 5px 10px;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding: 5px;
+    background-color:cyan;
+}
+.Blog-2{
+    border: 2px solid green;
+    box-shadow: 2px 5px 10px;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding: 5px;
+    background-color: black;
+    color: gold;
+}
+.Blog-3{
+    border: 2px solid green;
+    box-shadow: 2px 5px 10px;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding: 5px;
+    background-color:coral;
+}
